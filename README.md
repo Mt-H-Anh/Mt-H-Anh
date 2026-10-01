@@ -10,9 +10,7 @@ I'm a data and Power BI analyst. I use SQL to investigate business questions and
 
 ## 📚 Projects
 
-My [portfolio guide](https://github.com/Mt-H-Anh/data-powerbi-portfolio) contains the business questions, findings, and report materials for each project.
+My [portfolio](https://github.com/Mt-H-Anh/data-powerbi-portfolio) contains simulated business questions, findings, and report materials for each project.
 
 - [Olist Sales & Delivery Analysis](https://github.com/Mt-H-Anh/olist-sales-delivery-analysis): investigate marketplace activity and delivery exceptions using SQL.
 - [Office Furniture Sales Analysis](https://github.com/Mt-H-Anh/office-furniture-sales-analysis): examine completed orders, cancellations, and observed repeat purchasing using Power BI measures.
-
-These are independent portfolio scenarios. The recommendations describe follow-up work; no operational intervention or resulting business impact has been measured.
