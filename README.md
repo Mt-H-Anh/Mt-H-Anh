@@ -1,6 +1,6 @@
-# Hi, I'm Mt-H-Anh 👋
+# Hi, I'm Hai Anh Dang 
 
-I'm a data and Power BI analyst. I use SQL to investigate business questions and Power BI to explain the results. My projects focus on sales performance, delivery, and customer purchasing, with the limits of each analysis stated alongside the findings.
+I'm a data and Power BI analyst. I use SQL to investigate business questions and Power BI to visualise the results. My projects focus on sales performance, delivery, and customer purchasing.
 
 ## 🛠 Skills & Tools
 
