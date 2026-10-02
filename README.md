@@ -5,7 +5,7 @@ I'm a data and Power BI analyst. I use SQL to investigate business questions and
 ## 🛠 Skills & Tools
 
 - SQL: querying, aggregation, ranking, and data checks.
-- Power BI: Power Query, data modelling, DAX, and report design.
+- Power BI: Power Query, data modelling, DAX.
 - Business analysis: stakeholder needs, KPI definitions, interpretation, and recommendations.
 
 ## 📚 Projects
